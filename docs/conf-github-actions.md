@@ -1,6 +1,6 @@
 # Configuração do Github-Actions
 
-## Criação dos Secrets
+## Criação das Secrets
 
 Por questão de segurança é fortemente recomendado o uso de secrets para o projeto.
 
@@ -45,8 +45,8 @@ Caminho para onde será enviado os arquivos
 
 Todas as secrets configuradas
 
-![All](./images/)
+![All](./images/all.png)
 
 ## JOB executado
 
-https://github.com/rfahham/infra-deploy-aws-github-actions/actions/runs/8661774232/job/23758909859
+https://github.com/rfahham/infra-deploy-aws-github-actions/actions/runs/8664288194
