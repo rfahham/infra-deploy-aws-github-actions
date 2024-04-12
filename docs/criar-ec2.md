@@ -1,10 +1,9 @@
 # Criar instância
 
-## Modo 1
+## Via Console
 
-Manualmente pelo console da AWS
+[via console](console.md)
 
-## Modo 2
+## Via Terraform
 
-Via terraform
-
+[via terraform](terraform.md)
